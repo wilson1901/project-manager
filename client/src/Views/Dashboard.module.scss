@@ -1,0 +1,66 @@
+.cardBackLog{
+    width: 80%;
+    height: 120px;
+    border : 1px solid black;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.overflow{
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.backlog{
+    background-color: blue;
+    border: 1px solid black;
+
+}
+.buttonBacklog{
+    background-color: #ffe599;
+    border : 1px solid #ffe599;
+    color: black;
+
+
+}
+.buttonInprogress{
+    background-color: #b6d7a8;
+    border : 1px solid #b6d7a8;
+    color: black;
+
+
+}
+.buttonCompleted{
+    background-color: #ea9999;
+    border : 1px solid #ea9999;
+    color: black;
+
+}
+
+.inprogress{
+    background-color:yellow;
+    border: 1px solid black;
+
+
+}
+
+.cardInProgress{
+    width: 80%;
+    height: 120px;
+    background-color: pink;
+    border : 1px solid black;
+    margin-top: 5px;
+}
+
+.completed{
+    background-color:green;
+    border: 1px solid black;
+
+}
+.linkAdd{
+    background-color: #9fc5f8;
+    color: black;
+    border-radius: 5px;
+    width: 200px;
+    float : left;
+}
